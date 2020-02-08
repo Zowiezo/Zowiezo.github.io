@@ -293,9 +293,9 @@ img {
 
 form {
     margin: auto;
-    width: 40%;
+    width: 31%;
     padding: 5em;
-    border: 1px solid #FFBC94;
+    border: 1.5px solid #FFBC94;
     border-radius: 1em;
 }
 input,
